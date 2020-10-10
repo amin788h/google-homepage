@@ -54,11 +54,6 @@
      border:gray solid 0.3px;
     
  }
-
- }
- .search button:hover{
-     color:black;
- }
  
  img {
      display: block;
@@ -107,4 +102,7 @@
     min-width: 54px;
     cursor: pointer;
     font-size: 15px;
+ }
+ button:hover{
+     color: black;
  }
